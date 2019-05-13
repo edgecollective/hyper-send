@@ -1,5 +1,11 @@
 # Hyper-send
 
+## Install Docker
+
+https://docs.docker.com/install/linux/docker-ce/ubuntu/
+
+## Use hyper-send
+
 Build the Docker container with ./build.sh
 
 Then run with ./run.sh
