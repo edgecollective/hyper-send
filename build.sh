@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t $USER/hyper_sender .
+docker build -t $USER/hyper-send .
